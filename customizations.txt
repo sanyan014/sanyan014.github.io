@@ -1,0 +1,1 @@
+What I have done for two of my pages of my website is configuring the background, the type of font used and the structure of the page. I have centered the text and modified the borders of the images. I also included buttons for navigating through the pages. 
